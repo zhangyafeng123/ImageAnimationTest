@@ -13,6 +13,17 @@
 		9CABE41221354D5E00FB9214 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9CABE41121354D5E00FB9214 /* Assets.xcassets */; };
 		9CABE41521354D5E00FB9214 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9CABE41321354D5E00FB9214 /* LaunchScreen.storyboard */; };
 		9CABE41821354D5E00FB9214 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CABE41721354D5E00FB9214 /* main.m */; };
+		9CABE42521354DB600FB9214 /* 3市政配套1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CABE41F21354DB600FB9214 /* 3市政配套1.png */; };
+		9CABE42621354DB600FB9214 /* 2 生活配套-on.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CABE42021354DB600FB9214 /* 2 生活配套-on.png */; };
+		9CABE42721354DB600FB9214 /* 1 教育配套-on.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CABE42121354DB600FB9214 /* 1 教育配套-on.png */; };
+		9CABE42821354DB600FB9214 /* 1 教育配套.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CABE42221354DB600FB9214 /* 1 教育配套.png */; };
+		9CABE42921354DB600FB9214 /* 3市政配套2.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CABE42321354DB600FB9214 /* 3市政配套2.png */; };
+		9CABE42A21354DB600FB9214 /* 2 生活配套.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CABE42421354DB600FB9214 /* 2 生活配套.png */; };
+		9CABE43121354F9900FB9214 /* icon_pull_animation_4.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CABE42C21354F9900FB9214 /* icon_pull_animation_4.png */; };
+		9CABE43221354F9900FB9214 /* icon_pull_animation_5.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CABE42D21354F9900FB9214 /* icon_pull_animation_5.png */; };
+		9CABE43321354F9900FB9214 /* icon_pull_animation_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CABE42E21354F9900FB9214 /* icon_pull_animation_1.png */; };
+		9CABE43421354F9900FB9214 /* icon_pull_animation_2.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CABE42F21354F9900FB9214 /* icon_pull_animation_2.png */; };
+		9CABE43521354F9900FB9214 /* icon_pull_animation_3.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CABE43021354F9900FB9214 /* icon_pull_animation_3.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +37,17 @@
 		9CABE41421354D5E00FB9214 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9CABE41621354D5E00FB9214 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9CABE41721354D5E00FB9214 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		9CABE41F21354DB600FB9214 /* 3市政配套1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "3市政配套1.png"; sourceTree = "<group>"; };
+		9CABE42021354DB600FB9214 /* 2 生活配套-on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "2 生活配套-on.png"; sourceTree = "<group>"; };
+		9CABE42121354DB600FB9214 /* 1 教育配套-on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1 教育配套-on.png"; sourceTree = "<group>"; };
+		9CABE42221354DB600FB9214 /* 1 教育配套.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1 教育配套.png"; sourceTree = "<group>"; };
+		9CABE42321354DB600FB9214 /* 3市政配套2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "3市政配套2.png"; sourceTree = "<group>"; };
+		9CABE42421354DB600FB9214 /* 2 生活配套.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "2 生活配套.png"; sourceTree = "<group>"; };
+		9CABE42C21354F9900FB9214 /* icon_pull_animation_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_pull_animation_4.png; sourceTree = "<group>"; };
+		9CABE42D21354F9900FB9214 /* icon_pull_animation_5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_pull_animation_5.png; sourceTree = "<group>"; };
+		9CABE42E21354F9900FB9214 /* icon_pull_animation_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_pull_animation_1.png; sourceTree = "<group>"; };
+		9CABE42F21354F9900FB9214 /* icon_pull_animation_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_pull_animation_2.png; sourceTree = "<group>"; };
+		9CABE43021354F9900FB9214 /* icon_pull_animation_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_pull_animation_3.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +84,8 @@
 				9CABE40921354D5C00FB9214 /* AppDelegate.m */,
 				9CABE40B21354D5C00FB9214 /* ViewController.h */,
 				9CABE40C21354D5C00FB9214 /* ViewController.m */,
+				9CABE41E21354DB600FB9214 /* 0子菜单 */,
+				9CABE42B21354F9900FB9214 /* first */,
 				9CABE40E21354D5C00FB9214 /* Main.storyboard */,
 				9CABE41121354D5E00FB9214 /* Assets.xcassets */,
 				9CABE41321354D5E00FB9214 /* LaunchScreen.storyboard */,
@@ -69,6 +93,31 @@
 				9CABE41721354D5E00FB9214 /* main.m */,
 			);
 			path = ImageAnimationTest;
+			sourceTree = "<group>";
+		};
+		9CABE41E21354DB600FB9214 /* 0子菜单 */ = {
+			isa = PBXGroup;
+			children = (
+				9CABE41F21354DB600FB9214 /* 3市政配套1.png */,
+				9CABE42021354DB600FB9214 /* 2 生活配套-on.png */,
+				9CABE42121354DB600FB9214 /* 1 教育配套-on.png */,
+				9CABE42221354DB600FB9214 /* 1 教育配套.png */,
+				9CABE42321354DB600FB9214 /* 3市政配套2.png */,
+				9CABE42421354DB600FB9214 /* 2 生活配套.png */,
+			);
+			path = "0子菜单";
+			sourceTree = "<group>";
+		};
+		9CABE42B21354F9900FB9214 /* first */ = {
+			isa = PBXGroup;
+			children = (
+				9CABE42C21354F9900FB9214 /* icon_pull_animation_4.png */,
+				9CABE42D21354F9900FB9214 /* icon_pull_animation_5.png */,
+				9CABE42E21354F9900FB9214 /* icon_pull_animation_1.png */,
+				9CABE42F21354F9900FB9214 /* icon_pull_animation_2.png */,
+				9CABE43021354F9900FB9214 /* icon_pull_animation_3.png */,
+			);
+			path = first;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -128,7 +177,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9CABE43321354F9900FB9214 /* icon_pull_animation_1.png in Resources */,
+				9CABE42721354DB600FB9214 /* 1 教育配套-on.png in Resources */,
+				9CABE43421354F9900FB9214 /* icon_pull_animation_2.png in Resources */,
+				9CABE42821354DB600FB9214 /* 1 教育配套.png in Resources */,
+				9CABE43521354F9900FB9214 /* icon_pull_animation_3.png in Resources */,
+				9CABE42921354DB600FB9214 /* 3市政配套2.png in Resources */,
+				9CABE43221354F9900FB9214 /* icon_pull_animation_5.png in Resources */,
+				9CABE42621354DB600FB9214 /* 2 生活配套-on.png in Resources */,
 				9CABE41521354D5E00FB9214 /* LaunchScreen.storyboard in Resources */,
+				9CABE43121354F9900FB9214 /* icon_pull_animation_4.png in Resources */,
+				9CABE42521354DB600FB9214 /* 3市政配套1.png in Resources */,
+				9CABE42A21354DB600FB9214 /* 2 生活配套.png in Resources */,
 				9CABE41221354D5E00FB9214 /* Assets.xcassets in Resources */,
 				9CABE41021354D5C00FB9214 /* Main.storyboard in Resources */,
 			);
